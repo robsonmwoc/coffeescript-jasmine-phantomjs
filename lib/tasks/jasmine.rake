@@ -4,6 +4,7 @@ task :jscov => :environment do
   # Must run assets:clean first to force re-compilation.
   # Make sure to fail this task if there are unit test failures.
   # For some reason does not work if run as separate exec's, so combine into one.
-  exec('rake assets:clean; guard-jasmine --coverage --coverage-html --coverage-summary; \
+  exec('rake assets:clean; guard-jasmine --coverage --coverage-html --coverage-summary \
+        --coverage-html-dir=./js_coverage; \
         code=$?; if [ $code != "0" ]; then exit $code; fi; istanbul report cobertura')
 end
