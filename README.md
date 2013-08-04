@@ -83,6 +83,13 @@ Developed by Robson Mendonça.
 
 If you like this project, you can watch the repository at [GitHub](https://github.com/robsonmwoc/coffeescript-jasmine-phantomjs) and follow [@robsonmwoc](https://twitter.com/#!/robsonmwoc) on Twitter for project updates.
 
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
 [Guard]: https://github.com/guard/guard
 [PhantomJS]: http://www.phantomjs.org/
