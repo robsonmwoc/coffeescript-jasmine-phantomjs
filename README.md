@@ -96,7 +96,7 @@ If you like this project, you can watch the repository at [GitHub](https://githu
 [the PhantomJS download section]: http://code.google.com/p/phantomjs/downloads/list
 [PhantomJS build instructions]: http://code.google.com/p/phantomjs/wiki/BuildInstructions
 [Jasminerice]: https://github.com/bradphelan/jasminerice
-[Jasmine]: http://pivotal.github.com/jasmine/
+[Jasmine]: https://jasmine.github.io/
 [CoffeeScript]: http://jashkenas.github.com/coffee-script/
 [Rails Asset Pipeline]: http://guides.rubyonrails.org/asset_pipeline.html
 [Homebrew]: http://mxcl.github.com/homebrew/
